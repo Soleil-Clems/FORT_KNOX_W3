@@ -1,0 +1,3005 @@
+[
+    {
+        "book_id": 2701,
+        "title": "Moby Dick; Or, The Whale",
+        "author": "Melville, Herman",
+        "author_birth_year": 1819,
+        "author_death_year": 1891,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Ahab, Captain (Fictitious character) -- Fiction",
+            "Mentally ill -- Fiction",
+            "Psychological fiction",
+            "Sea stories",
+            "Ship captains -- Fiction",
+            "Whales -- Fiction",
+            "Whaling -- Fiction",
+            "Whaling ships -- Fiction"
+        ],
+        "download_count": 188210,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1342,
+        "title": "Pride and Prejudice",
+        "author": "Austen, Jane",
+        "author_birth_year": 1775,
+        "author_death_year": 1817,
+        "language": "en",
+        "subjects": [
+            "Courtship -- Fiction",
+            "Domestic fiction",
+            "England -- Fiction",
+            "Love stories",
+            "Sisters -- Fiction",
+            "Social classes -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 183505,
+        "my_rating": 4,
+        "date_added": "2024-02-15",
+        "reviewer": "Sam",
+        "recommend": true
+    },
+    {
+        "book_id": 2641,
+        "title": "A Room with a View",
+        "author": "Forster, E. M. (Edward Morgan)",
+        "author_birth_year": 1879,
+        "author_death_year": 1970,
+        "language": "en",
+        "subjects": [
+            "British -- Italy -- Fiction",
+            "England -- Fiction",
+            "Florence (Italy) -- Fiction",
+            "Humorous stories",
+            "Young women -- Fiction"
+        ],
+        "download_count": 142569,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1727,
+        "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
+        "author": "Homer",
+        "author_birth_year": -750,
+        "author_death_year": -650,
+        "language": "en",
+        "subjects": [
+            "Epic poetry, Greek -- Translations into English",
+            "Homer -- Translations into English",
+            "Odysseus, King of Ithaca (Mythological character)"
+        ],
+        "download_count": 139227,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1513,
+        "title": "Romeo and Juliet",
+        "author": "Shakespeare, William",
+        "author_birth_year": 1564,
+        "author_death_year": 1616,
+        "language": "en",
+        "subjects": [
+            "Conflict of generations -- Drama",
+            "Juliet (Fictitious character) -- Drama",
+            "Romeo (Fictitious character) -- Drama",
+            "Tragedies (Drama)",
+            "Vendetta -- Drama",
+            "Verona (Italy) -- Drama",
+            "Youth -- Drama"
+        ],
+        "download_count": 132311,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 34413,
+        "title": "The Love Letters of Mary Wollstonecraft to Gilbert Imlay",
+        "author": "Wollstonecraft, Mary",
+        "author_birth_year": 1759,
+        "author_death_year": 1797,
+        "language": "en",
+        "subjects": [
+            "Authors, English -- 18th century -- Correspondence",
+            "Feminists -- Great Britain -- Correspondence",
+            "Imlay, Gilbert, 1754?-1828? -- Correspondence",
+            "Love-letters",
+            "Wollstonecraft, Mary, 1759-1797 -- Correspondence"
+        ],
+        "download_count": 126102,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2554,
+        "title": "Crime and Punishment",
+        "author": "Dostoyevsky, Fyodor",
+        "author_birth_year": 1821,
+        "author_death_year": 1881,
+        "language": "en",
+        "subjects": [
+            "Crime -- Psychological aspects -- Fiction",
+            "Detective and mystery stories",
+            "Murder -- Fiction",
+            "Psychological fiction",
+            "Saint Petersburg (Russia) -- Fiction"
+        ],
+        "download_count": 125245,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 3268,
+        "title": "The Mysteries of Udolpho",
+        "author": "Radcliffe, Ann Ward",
+        "author_birth_year": 1764,
+        "author_death_year": 1823,
+        "language": "en",
+        "subjects": [
+            "Castles -- Fiction",
+            "Gothic fiction",
+            "Guardian and ward -- Fiction",
+            "Horror tales",
+            "Inheritance and succession -- Fiction",
+            "Italy -- Fiction",
+            "Orphans -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 117670,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2465,
+        "title": "Carmen",
+        "author": "Mérimée, Prosper",
+        "author_birth_year": 1803,
+        "author_death_year": 1870,
+        "language": "en",
+        "subjects": [
+            "Carmen (Fictitious character) -- Fiction",
+            "Spain -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "download_count": 112176,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 65238,
+        "title": "The Secret of Chimneys",
+        "author": "Christie, Agatha",
+        "author_birth_year": 1890,
+        "author_death_year": 1976,
+        "language": "en",
+        "subjects": [
+            "Battle, Superintendent (Fictitious character) -- Fiction",
+            "Detective and mystery stories",
+            "Police -- England -- Fiction"
+        ],
+        "download_count": 112143,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 21839,
+        "title": "Sense and Sensibility",
+        "author": "Austen, Jane",
+        "author_birth_year": 1775,
+        "author_death_year": 1817,
+        "language": "en",
+        "subjects": [
+            "Domestic fiction",
+            "England -- Fiction",
+            "England -- Social life and customs -- 19th century -- Fiction",
+            "Gentry -- England -- Fiction",
+            "Inheritance and succession -- Fiction",
+            "Love stories",
+            "Mate selection -- Fiction",
+            "Regency fiction",
+            "Sisters -- Fiction",
+            "Social classes -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 107602,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2868,
+        "title": "The Green Mummy",
+        "author": "Hume, Fergus",
+        "author_birth_year": 1859,
+        "author_death_year": 1932,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories",
+            "Fiction"
+        ],
+        "download_count": 106137,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1661,
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Doyle, Arthur Conan",
+        "author_birth_year": 1859,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories, English",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 105900,
+        "my_rating": 5,
+        "date_added": "2024-03-05",
+        "reviewer": "Alex",
+        "recommend": true
+    },
+    {
+        "book_id": 1260,
+        "title": "Jane Eyre: An Autobiography",
+        "author": "Brontë, Charlotte",
+        "author_birth_year": 1816,
+        "author_death_year": 1855,
+        "language": "en",
+        "subjects": [
+            "Bildungsromans",
+            "Charity-schools -- Fiction",
+            "Country homes -- Fiction",
+            "England -- Fiction",
+            "Fathers and daughters -- Fiction",
+            "Governesses -- Fiction",
+            "Love stories",
+            "Married people -- Fiction",
+            "Mentally ill women -- Fiction",
+            "Orphans -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 103010,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 19476,
+        "title": "A Honeymoon in Space",
+        "author": "Griffith, George Chetwynd",
+        "author_birth_year": 1857,
+        "author_death_year": 1906,
+        "language": "en",
+        "subjects": [
+            "Science fiction"
+        ],
+        "download_count": 100540,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 24739,
+        "title": "Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude",
+        "author": "Bidwell, Austin",
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Bank fraud -- England",
+            "Bank of England",
+            "Bidwell, Austin",
+            "Criminals -- Biography"
+        ],
+        "download_count": 100070,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 22541,
+        "title": "The Misplaced Battleship",
+        "author": "Harrison, Harry",
+        "author_birth_year": 1925,
+        "author_death_year": 2012,
+        "language": "en",
+        "subjects": [
+            "Criminals -- Fiction",
+            "DiGriz, James Bolivar (Fictitious character) -- Fiction",
+            "Police -- Fiction",
+            "Science fiction",
+            "Space ships -- Fiction"
+        ],
+        "download_count": 99345,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 831,
+        "title": "Four Arthurian Romances",
+        "author": "Chrétien, de Troyes, active 12th century",
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Arthurian romances",
+            "Chrétien, de Troyes, active 12th century",
+            "Romances -- Translations into English",
+            "Tales, Medieval"
+        ],
+        "download_count": 98218,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 67979,
+        "title": "The Blue Castle: a novel",
+        "author": "Montgomery, L. M. (Lucy Maud)",
+        "author_birth_year": 1874,
+        "author_death_year": 1942,
+        "language": "en",
+        "subjects": [
+            "Canada -- History -- 1914-1945 -- Fiction",
+            "Choice (Psychology) -- Fiction",
+            "Love -- Fiction",
+            "Romance fiction",
+            "Self-actualization (Psychology) -- Fiction",
+            "Single women -- Fiction",
+            "Young adult fiction"
+        ],
+        "download_count": 98187,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 5197,
+        "title": "My Life — Volume 1",
+        "author": "Wagner, Richard",
+        "author_birth_year": 1813,
+        "author_death_year": 1883,
+        "language": "en",
+        "subjects": [
+            "Composers -- Germany -- Biography",
+            "Wagner, Richard, 1813-1883"
+        ],
+        "download_count": 95789,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 31100,
+        "title": "The Complete Project Gutenberg Works of Jane Austen: A Linked Index of all PG Editions of Jane Austen",
+        "author": "Austen, Jane",
+        "author_birth_year": 1775,
+        "author_death_year": 1817,
+        "language": "en",
+        "subjects": [
+            "England -- Social life and customs -- Fiction",
+            "Love stories, English"
+        ],
+        "download_count": 95700,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 11,
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Carroll, Lewis",
+        "author_birth_year": 1832,
+        "author_death_year": 1898,
+        "language": "en",
+        "subjects": [
+            "Alice (Fictitious character from Carroll) -- Juvenile fiction",
+            "Children's stories",
+            "Fantasy fiction",
+            "Imaginary places -- Juvenile fiction"
+        ],
+        "download_count": 94492,
+        "my_rating": 5,
+        "date_added": "2024-01-15",
+        "reviewer": "Sam",
+        "recommend": true
+    },
+    {
+        "book_id": 100,
+        "title": "The Complete Works of William Shakespeare",
+        "author": "Shakespeare, William",
+        "author_birth_year": 1564,
+        "author_death_year": 1616,
+        "language": "en",
+        "subjects": [
+            "English drama -- Early modern and Elizabethan, 1500-1600"
+        ],
+        "download_count": 93902,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 601,
+        "title": "The Monk: A Romance",
+        "author": "Lewis, M. G. (Matthew Gregory)",
+        "author_birth_year": 1775,
+        "author_death_year": 1818,
+        "language": "en",
+        "subjects": [
+            "Gothic fiction",
+            "Horror tales",
+            "Madrid (Spain) -- Fiction",
+            "Monks -- Fiction"
+        ],
+        "download_count": 93858,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 3011,
+        "title": "The Lady of the Lake",
+        "author": "Scott, Walter",
+        "author_birth_year": 1771,
+        "author_death_year": 1832,
+        "language": "en",
+        "subjects": [
+            "Arthurian romances",
+            "Lady of the Lake (Legendary character) -- Romances"
+        ],
+        "download_count": 89724,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 42671,
+        "title": "Pride and Prejudice",
+        "author": "Austen, Jane",
+        "author_birth_year": 1775,
+        "author_death_year": 1817,
+        "language": "en",
+        "subjects": [
+            "Courtship -- Fiction",
+            "Domestic fiction",
+            "England -- Fiction",
+            "Love stories",
+            "Sisters -- Fiction",
+            "Social classes -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 89612,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 345,
+        "title": "Dracula",
+        "author": "Stoker, Bram",
+        "author_birth_year": 1847,
+        "author_death_year": 1912,
+        "language": "en",
+        "subjects": [
+            "Dracula, Count (Fictitious character) -- Fiction",
+            "Epistolary fiction",
+            "Gothic fiction",
+            "Horror tales",
+            "Transylvania (Romania) -- Fiction",
+            "Vampires -- Fiction",
+            "Whitby (England) -- Fiction"
+        ],
+        "download_count": 89208,
+        "my_rating": 5,
+        "date_added": "2024-09-10",
+        "reviewer": "Alex",
+        "recommend": true
+    },
+    {
+        "book_id": 1695,
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "author": "Chesterton, G. K. (Gilbert Keith)",
+        "author_birth_year": 1874,
+        "author_death_year": 1936,
+        "language": "en",
+        "subjects": [
+            "Allegories",
+            "Anarchists -- Fiction",
+            "Detective and mystery stories",
+            "Fantasy fiction",
+            "London (England) -- Fiction",
+            "Police -- Fiction"
+        ],
+        "download_count": 89014,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 6133,
+        "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+        "author": "Leblanc, Maurice",
+        "author_birth_year": 1864,
+        "author_death_year": 1941,
+        "language": "en",
+        "subjects": [
+            "Adventure stories, French -- Translations into English",
+            "Burglars -- Fiction",
+            "Lupin, Arsène (Fictitious character) -- Fiction",
+            "Mystery and detective stories",
+            "Short stories"
+        ],
+        "download_count": 88520,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 59828,
+        "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+        "author": "Prest, Thomas Peckett",
+        "author_birth_year": 1810,
+        "author_death_year": 1859,
+        "language": "en",
+        "subjects": [
+            "Bakers -- Fiction",
+            "Barbers -- Fiction",
+            "Cannibalism -- Fiction",
+            "Fleet Street (London, England) -- Fiction",
+            "Historical fiction",
+            "Horror tales",
+            "London (England) -- Social life and customs -- 18th century -- Fiction",
+            "Missing persons -- Fiction",
+            "Murder -- Fiction",
+            "Mystery fiction",
+            "Penny dreadfuls",
+            "Revenge -- Fiction",
+            "Suspense fiction",
+            "Todd, Sweeney (Legendary character) -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 88406,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 36462,
+        "title": "King Arthur and the Knights of the Round Table",
+        "author": "Malory, Thomas, Sir",
+        "author_birth_year": null,
+        "author_death_year": 1471,
+        "language": "en",
+        "subjects": [
+            "Arthurian romances"
+        ],
+        "download_count": 88352,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2680,
+        "title": "Meditations",
+        "author": "Marcus Aurelius, Emperor of Rome",
+        "author_birth_year": 121,
+        "author_death_year": 180,
+        "language": "en",
+        "subjects": [
+            "Ethics",
+            "Life",
+            "Stoics"
+        ],
+        "download_count": 87287,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 37106,
+        "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+        "author": "Alcott, Louisa May",
+        "author_birth_year": 1832,
+        "author_death_year": 1888,
+        "language": "en",
+        "subjects": [
+            "Autobiographical fiction",
+            "Bildungsromans",
+            "Domestic fiction",
+            "Family life -- New England -- Fiction",
+            "March family (Fictitious characters) -- Fiction",
+            "Mothers and daughters -- Fiction",
+            "New England -- Fiction",
+            "Sisters -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 86348,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 24793,
+        "title": "Blow The Man Down: A Romance Of The Coast",
+        "author": "Day, Holman",
+        "author_birth_year": 1865,
+        "author_death_year": 1935,
+        "language": "en",
+        "subjects": [
+            "Love stories",
+            "Ship captains -- Fiction",
+            "Yachts -- Fiction"
+        ],
+        "download_count": 84994,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 7326,
+        "title": "The Yeoman Adventurer",
+        "author": "Gough, George W.",
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Farmers -- Fiction",
+            "Jacobite Rebellion, 1745-1746 -- Fiction",
+            "Staffordshire (England) -- Fiction"
+        ],
+        "download_count": 84557,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 145,
+        "title": "Middlemarch",
+        "author": "Eliot, George",
+        "author_birth_year": 1819,
+        "author_death_year": 1880,
+        "language": "en",
+        "subjects": [
+            "Bildungsromans",
+            "City and town life -- Fiction",
+            "Didactic fiction",
+            "Domestic fiction",
+            "England -- Fiction",
+            "Love stories",
+            "Married people -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 84181,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 40284,
+        "title": "The Sex Life of the Gods",
+        "author": "Knerr, M. E. (Michael E.)",
+        "author_birth_year": 1936,
+        "author_death_year": 1999,
+        "language": "en",
+        "subjects": [
+            "Extraterrestrial beings -- Fiction",
+            "Science fiction"
+        ],
+        "download_count": 82613,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 72,
+        "title": "Thuvia, maid of Mars",
+        "author": "Burroughs, Edgar Rice",
+        "author_birth_year": 1875,
+        "author_death_year": 1950,
+        "language": "en",
+        "subjects": [
+            "Mars (Planet) -- Fiction",
+            "Martians -- Fiction",
+            "Science fiction"
+        ],
+        "download_count": 81388,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 468,
+        "title": "Manon Lescaut",
+        "author": "Prévost, abbé",
+        "author_birth_year": 1697,
+        "author_death_year": 1763,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Lescaut, Manon, 1689-1721 -- Fiction",
+            "Man-woman relationships -- Fiction"
+        ],
+        "download_count": 80853,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 76639,
+        "title": "Eloisa : $b or, A series of original letters",
+        "author": "Rousseau, Jean-Jacques",
+        "author_birth_year": 1712,
+        "author_death_year": 1778,
+        "language": "en",
+        "subjects": [
+            "Alps Region -- History -- 18th century -- Fiction",
+            "Epistolary fiction",
+            "French fiction -- Translations into English",
+            "Man-woman relationships -- Fiction",
+            "Psychological fiction",
+            "Women -- Fiction"
+        ],
+        "download_count": 79893,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 43,
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "author": "Stevenson, Robert Louis",
+        "author_birth_year": 1850,
+        "author_death_year": 1894,
+        "language": "en",
+        "subjects": [
+            "Horror tales",
+            "London (England) -- Fiction",
+            "Multiple personality -- Fiction",
+            "Physicians -- Fiction",
+            "Psychological fiction",
+            "Science fiction",
+            "Self-experimentation in medicine -- Fiction"
+        ],
+        "download_count": 79438,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 31635,
+        "title": "The Silent Barrier",
+        "author": "Tracy, Louis",
+        "author_birth_year": 1863,
+        "author_death_year": 1928,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Mystery fiction",
+            "Switzerland -- Fiction",
+            "Voyages and travels -- Fiction"
+        ],
+        "download_count": 79146,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 8492,
+        "title": "The King in Yellow",
+        "author": "Chambers, Robert W. (Robert William)",
+        "author_birth_year": 1865,
+        "author_death_year": 1933,
+        "language": "en",
+        "subjects": [
+            "Horror tales, American",
+            "Short stories, American",
+            "United States -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "download_count": 78814,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 31472,
+        "title": "Cynthia's Chauffeur",
+        "author": "Tracy, Louis",
+        "author_birth_year": 1863,
+        "author_death_year": 1928,
+        "language": "en",
+        "subjects": [
+            "Americans -- England -- Fiction",
+            "Chauffeurs -- Fiction",
+            "Love stories"
+        ],
+        "download_count": 78793,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 28203,
+        "title": "Moods",
+        "author": "Alcott, Louisa May",
+        "author_birth_year": 1832,
+        "author_death_year": 1888,
+        "language": "en",
+        "subjects": [
+            "Young women -- Fiction"
+        ],
+        "download_count": 78042,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2620,
+        "title": "The Home Book of Verse — Volume 2",
+        "author": "Stevenson, Burton Egbert",
+        "author_birth_year": 1872,
+        "author_death_year": 1962,
+        "language": "en",
+        "subjects": [
+            "American poetry",
+            "Children's poetry",
+            "English poetry"
+        ],
+        "download_count": 78028,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 17460,
+        "title": "Lorna Doone: A Romance of Exmoor",
+        "author": "Blackmore, R. D. (Richard Doddridge)",
+        "author_birth_year": 1825,
+        "author_death_year": 1900,
+        "language": "en",
+        "subjects": [
+            "Exmoor (England) -- Fiction",
+            "Historical fiction",
+            "Love stories",
+            "Monmouth's Rebellion, 1685 -- Fiction"
+        ],
+        "download_count": 77685,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 31257,
+        "title": "Dainty's Cruel Rivals; Or, The Fatal Birthday",
+        "author": "Miller, Alex. McVeigh, Mrs.",
+        "author_birth_year": 1850,
+        "author_death_year": 1937,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Aunts -- Fiction",
+            "Cousins -- Fiction",
+            "Love stories",
+            "Young women -- Fiction"
+        ],
+        "download_count": 77584,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 75201,
+        "title": "A farewell to arms",
+        "author": "Hemingway, Ernest",
+        "author_birth_year": 1899,
+        "author_death_year": 1961,
+        "language": "en",
+        "subjects": [
+            "Man-woman relationships -- Fiction",
+            "Military deserters -- Fiction",
+            "Military hospitals -- Fiction",
+            "Soldiers -- United States -- Fiction",
+            "War stories",
+            "War wounds -- Fiction",
+            "World War, 1914-1918 -- Campaigns -- Italy -- Fiction",
+            "World War, 1914-1918 -- Fiction",
+            "World War, 1914-1918 -- Medical care -- Fiction"
+        ],
+        "download_count": 77348,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1184,
+        "title": "The Count of Monte Cristo",
+        "author": "Dumas, Alexandre",
+        "author_birth_year": 1802,
+        "author_death_year": 1870,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Dantès, Edmond (Fictitious character) -- Fiction",
+            "France -- History -- 19th century -- Fiction",
+            "Historical fiction",
+            "Pirates -- Fiction",
+            "Prisoners -- Fiction",
+            "Revenge -- Fiction"
+        ],
+        "download_count": 77283,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 32155,
+        "title": "The Love Letters of Henry VIII to Anne Boleyn; With Notes",
+        "author": "Henry VIII, King of England",
+        "author_birth_year": 1491,
+        "author_death_year": 1547,
+        "language": "en",
+        "subjects": [
+            "Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536 -- Correspondence",
+            "Great Britain -- Kings and rulers -- Correspondence",
+            "Henry VIII, King of England, 1491-1547 -- Correspondence",
+            "Love-letters -- Early works to 1800"
+        ],
+        "download_count": 77027,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 18459,
+        "title": "Hypnerotomachia: The Strife of Loue in a Dreame",
+        "author": "Colonna, Francesco",
+        "author_birth_year": null,
+        "author_death_year": 1527,
+        "language": "en",
+        "subjects": [
+            "Dreams -- Fiction",
+            "Italian fiction -- 15th century -- Translations into English",
+            "Romances"
+        ],
+        "download_count": 76687,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 20203,
+        "title": "Autobiography of Benjamin Franklin",
+        "author": "Franklin, Benjamin",
+        "author_birth_year": 1706,
+        "author_death_year": 1790,
+        "language": "en",
+        "subjects": [
+            "Franklin, Benjamin, 1706-1790",
+            "Statesmen -- United States -- Biography"
+        ],
+        "download_count": 76567,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 42,
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "author": "Stevenson, Robert Louis",
+        "author_birth_year": 1850,
+        "author_death_year": 1894,
+        "language": "en",
+        "subjects": [
+            "Horror tales",
+            "London (England) -- Fiction",
+            "Multiple personality -- Fiction",
+            "Physicians -- Fiction",
+            "Psychological fiction",
+            "Science fiction",
+            "Self-experimentation in medicine -- Fiction"
+        ],
+        "download_count": 76206,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 33823,
+        "title": "The Gay Adventure: A Romance",
+        "author": "Bird, Richard",
+        "author_birth_year": 1881,
+        "author_death_year": 1965,
+        "language": "en",
+        "subjects": [
+            "English fiction"
+        ],
+        "download_count": 76097,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 564,
+        "title": "The Mystery of Edwin Drood",
+        "author": "Dickens, Charles",
+        "author_birth_year": 1812,
+        "author_death_year": 1870,
+        "language": "en",
+        "subjects": [
+            "Cathedrals -- Fiction",
+            "Choral conductors -- Fiction",
+            "England -- Fiction",
+            "Missing persons -- Fiction",
+            "Mystery fiction",
+            "Psychological fiction",
+            "Separation (Psychology) -- Fiction",
+            "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "download_count": 75993,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 18875,
+        "title": "The Prairie Wife",
+        "author": "Stringer, Arthur",
+        "author_birth_year": 1874,
+        "author_death_year": 1950,
+        "language": "en",
+        "subjects": [
+            "Canada -- Fiction",
+            "Frontier and pioneer life -- Prairie Provinces -- Fiction"
+        ],
+        "download_count": 75422,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 3296,
+        "title": "The Confessions of St. Augustine",
+        "author": "Augustine, of Hippo, Saint",
+        "author_birth_year": 354,
+        "author_death_year": 430,
+        "language": "en",
+        "subjects": [
+            "Augustine, of Hippo, Saint, 354-430",
+            "Bishops -- Algeria -- Hippo (Extinct city) -- Biography",
+            "Catholic Church -- Bishops -- Biography",
+            "Christian saints -- Algeria -- Hippo (Extinct city) -- Biography"
+        ],
+        "download_count": 75317,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 36725,
+        "title": "On the Cross: A Romance of the Passion Play at Oberammergau",
+        "author": "Hillern, Wilhelmine von",
+        "author_birth_year": 1836,
+        "author_death_year": 1916,
+        "language": "en",
+        "subjects": [
+            "Oberammergau (Germany) -- Fiction",
+            "Oberammergauer Passionsspiel -- Fiction"
+        ],
+        "download_count": 74908,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 35548,
+        "title": "Doctor Cupid: A Novel",
+        "author": "Broughton, Rhoda",
+        "author_birth_year": 1840,
+        "author_death_year": 1920,
+        "language": "en",
+        "subjects": [
+            "English fiction -- Welsh authors"
+        ],
+        "download_count": 74907,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 71046,
+        "title": "Modern English biography, volume 2 (of 4), I-Q",
+        "author": "Boase, Frederic",
+        "author_birth_year": 1843,
+        "author_death_year": 1916,
+        "language": "en",
+        "subjects": [
+            "Great Britain -- Biography -- Dictionaries"
+        ],
+        "download_count": 74682,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 36223,
+        "title": "The Boy with Wings",
+        "author": "Ruck, Berta",
+        "author_birth_year": 1878,
+        "author_death_year": 1978,
+        "language": "en",
+        "subjects": [
+            "Air pilots, Military -- Fiction",
+            "England -- Social life and customs -- 20th century -- Fiction",
+            "Love stories",
+            "World War, 1914-1918 -- England -- Fiction"
+        ],
+        "download_count": 74655,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1259,
+        "title": "Twenty years after",
+        "author": "Dumas, Alexandre",
+        "author_birth_year": 1802,
+        "author_death_year": 1870,
+        "language": "en",
+        "subjects": [
+            "France -- History -- Louis XIV, 1643-1715 -- Fiction"
+        ],
+        "download_count": 74574,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 38311,
+        "title": "What Will People Say? A Novel",
+        "author": "Hughes, Rupert",
+        "author_birth_year": 1872,
+        "author_death_year": 1956,
+        "language": "en",
+        "subjects": [
+            "Man-woman relationships -- Fiction",
+            "New York (N.Y.) -- Social life and customs -- 20th century -- Fiction",
+            "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "download_count": 74362,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 15381,
+        "title": "Victorian Short Stories: Stories of Courtship",
+        "author": null,
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Courtship -- Fiction",
+            "Short stories"
+        ],
+        "download_count": 74161,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 22187,
+        "title": "Chambers's Edinburgh Journal, No. 452: Volume 18, New Series, August 28, 1852",
+        "author": "Various",
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Periodicals"
+        ],
+        "download_count": 74017,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 18857,
+        "title": "A Journey to the Centre of the Earth",
+        "author": "Verne, Jules",
+        "author_birth_year": 1828,
+        "author_death_year": 1905,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Earth (Planet) -- Core -- Fiction",
+            "Science fiction",
+            "Voyages, Imaginary -- Fiction"
+        ],
+        "download_count": 73986,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 23784,
+        "title": "The History of Sir Richard Calmady: A Romance",
+        "author": "Malet, Lucas",
+        "author_birth_year": 1852,
+        "author_death_year": 1931,
+        "language": "en",
+        "subjects": [
+            "Cousins -- Fiction",
+            "Lesbians -- Fiction",
+            "Mothers and sons -- Fiction",
+            "People with disabilities -- Fiction",
+            "Psychological fiction",
+            "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "download_count": 73939,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 27475,
+        "title": "That Girl Montana",
+        "author": "Ryan, Marah Ellis",
+        "author_birth_year": 1866,
+        "author_death_year": 1934,
+        "language": "en",
+        "subjects": [
+            "Montana -- Fiction",
+            "Western stories"
+        ],
+        "download_count": 73734,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 38177,
+        "title": "The Passionate Elopement",
+        "author": "MacKenzie, Compton",
+        "author_birth_year": 1883,
+        "author_death_year": 1972,
+        "language": "en",
+        "subjects": [
+            "England -- Social life and customs -- 18th century -- Fiction",
+            "Health resorts -- Fiction"
+        ],
+        "download_count": 73720,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 27997,
+        "title": "Robert Orange: Being a Continuation of the History of Robert Orange",
+        "author": "Hobbes, John Oliver",
+        "author_birth_year": 1867,
+        "author_death_year": 1906,
+        "language": "en",
+        "subjects": [
+            "Religious fiction"
+        ],
+        "download_count": 73615,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 42389,
+        "title": "The Pirate: Andrew Lang Edition",
+        "author": "Scott, Walter",
+        "author_birth_year": 1771,
+        "author_death_year": 1832,
+        "language": "en",
+        "subjects": [
+            "Domestic fiction",
+            "Historical fiction",
+            "Kidnapping -- Fiction",
+            "Landlord and tenant -- Fiction",
+            "Love stories",
+            "Orkney (Scotland) -- Fiction",
+            "Pirates -- Fiction",
+            "Shetland (Scotland) -- Fiction",
+            "Shipwreck survival -- Fiction"
+        ],
+        "download_count": 72308,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 14244,
+        "title": "The Romance of Tristan and Iseult",
+        "author": "Bédier, Joseph",
+        "author_birth_year": 1864,
+        "author_death_year": 1938,
+        "language": "en",
+        "subjects": [
+            "Arthurian romances -- Adaptations",
+            "Iseult (Legendary character) -- Romances -- Adaptations",
+            "Tristan (Legendary character) -- Romances -- Adaptations"
+        ],
+        "download_count": 72250,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 30849,
+        "title": "The Works of Robert Louis Stevenson - Swanston Edition, Vol. 20",
+        "author": "Stevenson, Robert Louis",
+        "author_birth_year": 1850,
+        "author_death_year": 1894,
+        "language": "en",
+        "subjects": [
+            "French -- England -- Fiction",
+            "Prisoners of war -- Fiction"
+        ],
+        "download_count": 71783,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 245,
+        "title": "Life on the Mississippi",
+        "author": "Twain, Mark",
+        "author_birth_year": 1835,
+        "author_death_year": 1910,
+        "language": "en",
+        "subjects": [
+            "Authors, American -- 19th century -- Biography",
+            "Mississippi River -- Description and travel",
+            "Mississippi River Valley -- Social life and customs -- 19th century",
+            "Pilots and pilotage -- Mississippi River",
+            "Twain, Mark, 1835-1910 -- Travel -- Mississippi River"
+        ],
+        "download_count": 71674,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 30340,
+        "title": "The Passionate Friends",
+        "author": "Wells, H. G. (Herbert George)",
+        "author_birth_year": 1866,
+        "author_death_year": 1946,
+        "language": "en",
+        "subjects": [
+            "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "download_count": 71275,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 10148,
+        "title": "The Merry Adventures of Robin Hood",
+        "author": "Pyle, Howard",
+        "author_birth_year": 1853,
+        "author_death_year": 1911,
+        "language": "en",
+        "subjects": [
+            "Folklore -- England",
+            "Robin Hood (Legendary character) -- Legends"
+        ],
+        "download_count": 71185,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 25789,
+        "title": "Emily Brontë",
+        "author": "Robinson, A. Mary F. (Agnes Mary Frances)",
+        "author_birth_year": 1857,
+        "author_death_year": 1944,
+        "language": "en",
+        "subjects": [
+            "Authors, English -- 19th century -- Biography",
+            "Brontë, Emily, 1818-1848",
+            "Women and literature -- England -- History -- 19th century"
+        ],
+        "download_count": 71029,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 31469,
+        "title": "The Shunned House",
+        "author": "Lovecraft, H. P. (Howard Phillips)",
+        "author_birth_year": 1890,
+        "author_death_year": 1937,
+        "language": "en",
+        "subjects": [
+            "Haunted houses -- Fiction",
+            "Horror tales, American"
+        ],
+        "download_count": 70867,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 34323,
+        "title": "The Samurai Strategy",
+        "author": "Hoover, Thomas",
+        "author_birth_year": 1941,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Mystery fiction"
+        ],
+        "download_count": 70662,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 30434,
+        "title": "Occasion ... for Disaster",
+        "author": "Garrett, Randall",
+        "author_birth_year": 1927,
+        "author_death_year": 1987,
+        "language": "en",
+        "subjects": [
+            "Psychic ability -- Fiction",
+            "Science fiction",
+            "Telepathy -- Fiction",
+            "United States. Federal Bureau of Investigation -- Fiction"
+        ],
+        "download_count": 70528,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 15399,
+        "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself",
+        "author": "Equiano, Olaudah",
+        "author_birth_year": 1745,
+        "author_death_year": 1797,
+        "language": "en",
+        "subjects": [
+            "Enslaved persons -- Great Britain -- Biography",
+            "Enslaved persons -- United States -- Biography",
+            "Equiano, Olaudah, 1745-1797"
+        ],
+        "download_count": 70357,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 26563,
+        "title": "The Crack of Doom",
+        "author": "Cromie, Robert",
+        "author_birth_year": 1856,
+        "author_death_year": 1907,
+        "language": "en",
+        "subjects": [
+            "Nuclear explosions -- Fiction",
+            "Paranormal fiction",
+            "Science fiction"
+        ],
+        "download_count": 70140,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 34318,
+        "title": "Life Blood",
+        "author": "Hoover, Thomas",
+        "author_birth_year": 1941,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Adoption -- Corrupt practices -- Fiction",
+            "Central America -- Fiction",
+            "Horror tales",
+            "Human experimentation in medicine -- Fiction",
+            "Suspense fiction"
+        ],
+        "download_count": 69915,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 22163,
+        "title": "The Rover Boys on the Farm; or, Last Days at Putnam Hall",
+        "author": "Stratemeyer, Edward",
+        "author_birth_year": 1862,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Brothers -- Juvenile fiction",
+            "Military education -- Juvenile fiction",
+            "Schools -- Juvenile fiction"
+        ],
+        "download_count": 69906,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 42681,
+        "title": "The Hero of the People: A Historical Romance of Love, Liberty and Loyalty",
+        "author": "Dumas, Alexandre",
+        "author_birth_year": 1802,
+        "author_death_year": 1870,
+        "language": "en",
+        "subjects": [
+            "France -- History -- Revolution, 1789-1799 -- Fiction",
+            "Historical fiction",
+            "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793 -- Fiction"
+        ],
+        "download_count": 69871,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 28780,
+        "title": "Peter the Brazen: A Mystery Story of Modern China",
+        "author": "Worts, George F. (George Frank)",
+        "author_birth_year": 1892,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "China -- Fiction",
+            "Detective and mystery stories"
+        ],
+        "download_count": 69663,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 393,
+        "title": "The Blue Lagoon: A Romance",
+        "author": "Stacpoole, H. De Vere (Henry De Vere)",
+        "author_birth_year": 1863,
+        "author_death_year": 1951,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Bildungsromans",
+            "Castaways -- Fiction",
+            "Cousins -- Fiction",
+            "Islands -- Fiction",
+            "Love stories",
+            "Shipwrecks -- Fiction"
+        ],
+        "download_count": 68986,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 19771,
+        "title": "Henrietta Temple: A Love Story",
+        "author": "Disraeli, Benjamin, Earl of Beaconsfield",
+        "author_birth_year": 1804,
+        "author_death_year": 1881,
+        "language": "en",
+        "subjects": [
+            "Aristocracy (Social class) -- Fiction",
+            "Autobiographical fiction",
+            "Dandies -- Fiction",
+            "London (England) -- Fiction",
+            "Love stories",
+            "Upper class families -- Fiction"
+        ],
+        "download_count": 68578,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 589,
+        "title": "Catriona",
+        "author": "Stevenson, Robert Louis",
+        "author_birth_year": 1850,
+        "author_death_year": 1894,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Scotland -- History -- 18th century -- Fiction"
+        ],
+        "download_count": 68522,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 32474,
+        "title": "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.",
+        "author": "Díaz del Castillo, Bernal",
+        "author_birth_year": 1496,
+        "author_death_year": 1584,
+        "language": "en",
+        "subjects": [
+            "Mexico -- History -- Conquest, 1519-1540"
+        ],
+        "download_count": 68466,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 17157,
+        "title": "Gulliver's Travels into Several Remote Regions of the World",
+        "author": "Swift, Jonathan",
+        "author_birth_year": 1667,
+        "author_death_year": 1745,
+        "language": "en",
+        "subjects": [
+            "Fantasy fiction",
+            "Gulliver, Lemuel (Fictitious character) -- Fiction",
+            "Satire",
+            "Travelers -- Fiction",
+            "Voyages, Imaginary -- Early works to 1800"
+        ],
+        "download_count": 68283,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1112,
+        "title": "Romeo and Juliet",
+        "author": "Shakespeare, William",
+        "author_birth_year": 1564,
+        "author_death_year": 1616,
+        "language": "en",
+        "subjects": [
+            "Conflict of generations -- Drama",
+            "Juliet (Fictitious character) -- Drama",
+            "Romeo (Fictitious character) -- Drama",
+            "Vendetta -- Drama",
+            "Verona (Italy) -- Drama",
+            "Youth -- Drama"
+        ],
+        "download_count": 68033,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 10441,
+        "title": "The Green Mouse",
+        "author": "Chambers, Robert W. (Robert William)",
+        "author_birth_year": 1865,
+        "author_death_year": 1933,
+        "language": "en",
+        "subjects": [
+            "Courtship -- Fiction",
+            "Fantasy fiction",
+            "Magic -- Fiction",
+            "New York (N.Y.) -- Fiction"
+        ],
+        "download_count": 67318,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 38983,
+        "title": "The Camp Fire Girls Solve a Mystery; Or, The Christmas Adventure at Carver House",
+        "author": "Frey, Hildegard G.",
+        "author_birth_year": 1891,
+        "author_death_year": 1957,
+        "language": "en",
+        "subjects": [
+            "Camp Fire Girls -- Juvenile fiction",
+            "Clubs -- Juvenile fiction",
+            "Family -- Juvenile fiction",
+            "Mystery and detective stories",
+            "Prudence -- Juvenile fiction",
+            "Thoughtfulness -- Juvenile fiction"
+        ],
+        "download_count": 67181,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 37499,
+        "title": "Napoleon's Letters to Josephine, 1796-1812: For the First Time Collected and Translated, with Notes Social, Historical, and Chronological, from Contemporary Sources",
+        "author": "Napoleon I, Emperor of the French",
+        "author_birth_year": 1769,
+        "author_death_year": 1821,
+        "language": "en",
+        "subjects": [
+            "Josephine, Empress, consort of Napoleon I, Emperor of the French, 1763-1814 -- Correspondence",
+            "Napoleon I, Emperor of the French, 1769-1821 -- Correspondence"
+        ],
+        "download_count": 66972,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 20546,
+        "title": "The Hand in the Dark",
+        "author": "Rees, Arthur J. (Arthur John)",
+        "author_birth_year": 1872,
+        "author_death_year": 1942,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories"
+        ],
+        "download_count": 66961,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 244,
+        "title": "A Study in Scarlet",
+        "author": "Doyle, Arthur Conan",
+        "author_birth_year": 1859,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories",
+            "England -- Fiction",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 66652,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 161,
+        "title": "Sense and Sensibility",
+        "author": "Austen, Jane",
+        "author_birth_year": 1775,
+        "author_death_year": 1817,
+        "language": "en",
+        "subjects": [
+            "Domestic fiction",
+            "England -- Fiction",
+            "England -- Social life and customs -- 19th century -- Fiction",
+            "Gentry -- England -- Fiction",
+            "Inheritance and succession -- Fiction",
+            "Love stories",
+            "Mate selection -- Fiction",
+            "Regency fiction",
+            "Sisters -- Fiction",
+            "Social classes -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "download_count": 66470,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 26315,
+        "title": "Shakespeare's family",
+        "author": "Stopes, C. C. (Charlotte Carmichael)",
+        "author_birth_year": 1840,
+        "author_death_year": 1929,
+        "language": "en",
+        "subjects": [
+            "Arden family",
+            "Shakespeare family",
+            "Shakespeare, William, 1564-1616 -- Family"
+        ],
+        "download_count": 66406,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 18151,
+        "title": "Time Crime",
+        "author": "Piper, H. Beam",
+        "author_birth_year": 1904,
+        "author_death_year": 1964,
+        "language": "en",
+        "subjects": [
+            "Science fiction"
+        ],
+        "download_count": 66343,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 20121,
+        "title": "Lone Star Planet",
+        "author": "Piper, H. Beam",
+        "author_birth_year": 1904,
+        "author_death_year": 1964,
+        "language": "en",
+        "subjects": [
+            "Science fiction",
+            "Space colonies -- Fiction"
+        ],
+        "download_count": 66217,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 560,
+        "title": "Mr. Standfast",
+        "author": "Buchan, John",
+        "author_birth_year": 1875,
+        "author_death_year": 1940,
+        "language": "en",
+        "subjects": [
+            "Hannay, Richard (Fictitious character) -- Fiction",
+            "Intelligence service -- Great Britain -- Fiction",
+            "Spy stories",
+            "War stories",
+            "World War, 1914-1918 -- Fiction"
+        ],
+        "download_count": 66098,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 20628,
+        "title": "Torchy and Vee",
+        "author": "Ford, Sewell",
+        "author_birth_year": 1868,
+        "author_death_year": 1946,
+        "language": "en",
+        "subjects": [
+            "Humorous stories",
+            "New York (N.Y.) -- Fiction",
+            "Private secretaries -- Fiction",
+            "World War, 1914-1918 -- United States -- Fiction"
+        ],
+        "download_count": 65878,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 7889,
+        "title": "Erotica Romana",
+        "author": "Goethe, Johann Wolfgang von",
+        "author_birth_year": 1749,
+        "author_death_year": 1832,
+        "language": "en",
+        "subjects": [
+            "German poetry -- Translations into English"
+        ],
+        "download_count": 65741,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 76178,
+        "title": "I am a woman",
+        "author": "Bannon, Ann",
+        "author_birth_year": 1932,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Lesbians -- Fiction",
+            "Love stories",
+            "New York (N.Y.) -- Fiction"
+        ],
+        "download_count": 65662,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 14471,
+        "title": "The Empty House and Other Ghost Stories",
+        "author": "Blackwood, Algernon",
+        "author_birth_year": 1869,
+        "author_death_year": 1951,
+        "language": "en",
+        "subjects": [
+            "Ghost stories, English"
+        ],
+        "download_count": 65466,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 70854,
+        "title": "The Countess of Pembroke's Arcadia",
+        "author": "Sidney, Philip",
+        "author_birth_year": 1554,
+        "author_death_year": 1586,
+        "language": "en",
+        "subjects": [
+            "Pastoral literature, English"
+        ],
+        "download_count": 65432,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 16433,
+        "title": "The Gay Cockade",
+        "author": "Bailey, Temple",
+        "author_birth_year": 1869,
+        "author_death_year": 1953,
+        "language": "en",
+        "subjects": [
+            "Short stories"
+        ],
+        "download_count": 65139,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2852,
+        "title": "The Hound of the Baskervilles",
+        "author": "Doyle, Arthur Conan",
+        "author_birth_year": 1859,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Blessing and cursing -- Fiction",
+            "Dartmoor (England) -- Fiction",
+            "Detective and mystery stories",
+            "Dogs -- Fiction",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 65125,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 23172,
+        "title": "The Damned Thing: 1898, From \"In the Midst of Life\"",
+        "author": "Bierce, Ambrose",
+        "author_birth_year": 1842,
+        "author_death_year": 1913,
+        "language": "en",
+        "subjects": [
+            "Horror tales",
+            "Short stories"
+        ],
+        "download_count": 65079,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 15384,
+        "title": "The Real Adventure",
+        "author": "Webster, Henry Kitchell",
+        "author_birth_year": 1875,
+        "author_death_year": 1932,
+        "language": "en",
+        "subjects": [
+            "Man-woman relationships -- Fiction",
+            "Married people -- Fiction"
+        ],
+        "download_count": 64742,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 40361,
+        "title": "The Air Pirate",
+        "author": "Thorne, Guy",
+        "author_birth_year": 1875,
+        "author_death_year": 1923,
+        "language": "en",
+        "subjects": [
+            "Aeronautics -- Fiction",
+            "England -- Fiction",
+            "Pirates -- Fiction",
+            "Science fiction"
+        ],
+        "download_count": 64687,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 24149,
+        "title": "The Ambulance Made Two Trips",
+        "author": "Leinster, Murray",
+        "author_birth_year": 1896,
+        "author_death_year": 1975,
+        "language": "en",
+        "subjects": [
+            "Gangsters -- Fiction",
+            "Luck -- Fiction",
+            "Police -- Fiction",
+            "Science fiction",
+            "Short stories"
+        ],
+        "download_count": 64579,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 23599,
+        "title": "The Big Fix",
+        "author": "Smith, George O. (George Oliver)",
+        "author_birth_year": 1911,
+        "author_death_year": 1981,
+        "language": "en",
+        "subjects": [
+            "Horse racing -- Fiction",
+            "Psychic ability -- Fiction",
+            "Science fiction",
+            "Short stories",
+            "Telepathy -- Fiction"
+        ],
+        "download_count": 64547,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 14818,
+        "title": "The Daughter of Anderson Crow",
+        "author": "McCutcheon, George Barr",
+        "author_birth_year": 1866,
+        "author_death_year": 1928,
+        "language": "en",
+        "subjects": [
+            "City and town life -- Fiction",
+            "Foundlings -- Fiction",
+            "New York (State) -- Fiction"
+        ],
+        "download_count": 64510,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 12758,
+        "title": "Library of the World's Best Mystery and Detective Stories",
+        "author": null,
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories"
+        ],
+        "download_count": 64490,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 11982,
+        "title": "Eighty Years and More; Reminiscences 1815-1897",
+        "author": "Stanton, Elizabeth Cady",
+        "author_birth_year": 1815,
+        "author_death_year": 1902,
+        "language": "en",
+        "subjects": [
+            "Feminism -- United States -- History -- 19th century",
+            "Stanton, Elizabeth Cady, 1815-1902",
+            "Suffragists -- United States -- Biography",
+            "Women -- Suffrage -- United States -- History -- 19th century"
+        ],
+        "download_count": 63975,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 36965,
+        "title": "Harriet Martineau",
+        "author": "Miller, Florence Fenwick",
+        "author_birth_year": 1854,
+        "author_death_year": 1936,
+        "language": "en",
+        "subjects": [
+            "Authors, English -- 19th century -- Biography",
+            "Martineau, Harriet, 1802-1876",
+            "Women and literature -- England -- History -- 19th century",
+            "Women social reformers -- Great Britain -- Biography"
+        ],
+        "download_count": 63949,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2148,
+        "title": "The Works of Edgar Allan Poe — Volume 2",
+        "author": "Poe, Edgar Allan",
+        "author_birth_year": 1809,
+        "author_death_year": 1849,
+        "language": "en",
+        "subjects": [
+            "American fiction -- 19th century",
+            "Fantasy fiction",
+            "Horror tales, American",
+            "Short stories"
+        ],
+        "download_count": 63847,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 23,
+        "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "author": "Douglass, Frederick",
+        "author_birth_year": 1818,
+        "author_death_year": 1895,
+        "language": "en",
+        "subjects": [
+            "Abolitionists -- United States -- Biography",
+            "African American abolitionists -- Biography",
+            "Douglass, Frederick, 1818-1895",
+            "Enslaved persons -- United States -- Biography"
+        ],
+        "download_count": 63607,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 11987,
+        "title": "By Advice of Counsel",
+        "author": "Train, Arthur Cheney",
+        "author_birth_year": 1875,
+        "author_death_year": 1945,
+        "language": "en",
+        "subjects": [
+            "Legal stories"
+        ],
+        "download_count": 63462,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1212,
+        "title": "Love and Freindship [sic]",
+        "author": "Austen, Jane",
+        "author_birth_year": 1775,
+        "author_death_year": 1817,
+        "language": "en",
+        "subjects": [
+            "England -- Social life and customs -- 18th century -- Fiction",
+            "Epistolary fiction",
+            "Essays"
+        ],
+        "download_count": 63405,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 12345,
+        "title": "Friday, the Thirteenth: A Novel",
+        "author": "Lawson, Thomas William",
+        "author_birth_year": 1857,
+        "author_death_year": 1925,
+        "language": "en",
+        "subjects": [
+            "Banks and banking, American -- Fiction",
+            "Banks and banking, International -- Fiction",
+            "Financial crises -- Fiction",
+            "National banks (United States) -- Fiction",
+            "Stock exchanges -- United States -- Fiction"
+        ],
+        "download_count": 63081,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 37734,
+        "title": "Some Jewish Witnesses For Christ",
+        "author": "Bernstein, Aaron",
+        "author_birth_year": 1841,
+        "author_death_year": 1912,
+        "language": "en",
+        "subjects": [
+            "Christian converts from Judaism -- Biography",
+            "Missions to Jews"
+        ],
+        "download_count": 63018,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2002,
+        "title": "Sonnets from the Portuguese",
+        "author": "Browning, Elizabeth Barrett",
+        "author_birth_year": 1806,
+        "author_death_year": 1861,
+        "language": "en",
+        "subjects": [
+            "Love poetry, English",
+            "Sonnets, English"
+        ],
+        "download_count": 62714,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 51252,
+        "title": "The Book of the Thousand Nights and a Night — Volume 01 (of 10)",
+        "author": null,
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Fairy tales -- Arab countries",
+            "Folklore -- Arab countries"
+        ],
+        "download_count": 62488,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 4499,
+        "title": "Complete Short Works of George Meredith",
+        "author": "Meredith, George",
+        "author_birth_year": 1828,
+        "author_death_year": 1909,
+        "language": "en",
+        "subjects": [
+            "English fiction -- 19th century"
+        ],
+        "download_count": 62485,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1608,
+        "title": "Camille (La Dame aux Camilias)",
+        "author": "Dumas, Alexandre",
+        "author_birth_year": 1824,
+        "author_death_year": 1895,
+        "language": "en",
+        "subjects": [
+            "Courtesans -- Fiction",
+            "Fathers and sons -- Fiction",
+            "Love stories",
+            "Paris (France) -- Fiction",
+            "Tuberculosis -- Patients -- Fiction"
+        ],
+        "download_count": 62473,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 224,
+        "title": "A pair of blue eyes",
+        "author": "Hardy, Thomas",
+        "author_birth_year": 1840,
+        "author_death_year": 1928,
+        "language": "en",
+        "subjects": [
+            "Didactic fiction",
+            "Elopement -- Fiction",
+            "Separation (Psychology) -- Fiction",
+            "Triangles (Interpersonal relations) -- Fiction",
+            "Wessex (England) -- Fiction"
+        ],
+        "download_count": 62448,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 1523,
+        "title": "As You Like It",
+        "author": "Shakespeare, William",
+        "author_birth_year": 1564,
+        "author_death_year": 1616,
+        "language": "en",
+        "subjects": [
+            "Comedy plays",
+            "Exiles -- Drama",
+            "Fathers and daughters -- Drama",
+            "Pastoral drama"
+        ],
+        "download_count": 62424,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 8197,
+        "title": "India's Love Lyrics",
+        "author": "Hope, Laurence",
+        "author_birth_year": 1865,
+        "author_death_year": 1904,
+        "language": "en",
+        "subjects": [
+            "India -- Poetry"
+        ],
+        "download_count": 62419,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2825,
+        "title": "Undine",
+        "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
+        "author_birth_year": 1777,
+        "author_death_year": 1843,
+        "language": "en",
+        "subjects": [
+            "Fairy tales -- Germany",
+            "Fantasy fiction",
+            "Knights and knighthood -- Fiction",
+            "Love stories",
+            "Romances -- Translations into English",
+            "Water spirits -- Fiction"
+        ],
+        "download_count": 62394,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 11030,
+        "title": "Incidents in the Life of a Slave Girl, Written by Herself",
+        "author": "Jacobs, Harriet A. (Harriet Ann)",
+        "author_birth_year": 1813,
+        "author_death_year": 1897,
+        "language": "en",
+        "subjects": [
+            "Enslaved persons -- United States -- Biography",
+            "Enslaved persons -- United States -- Social conditions",
+            "Enslaved women -- United States -- Biography",
+            "Jacobs, Harriet A. (Harriet Ann), 1813-1897"
+        ],
+        "download_count": 62296,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 3922,
+        "title": "The Red Lily — Complete",
+        "author": "France, Anatole",
+        "author_birth_year": 1844,
+        "author_death_year": 1924,
+        "language": "en",
+        "subjects": [
+            "France -- Fiction",
+            "French fiction -- Translations into English",
+            "Italy -- Fiction",
+            "Man-woman relationships -- Fiction"
+        ],
+        "download_count": 62185,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 23184,
+        "title": "Monte-Cristo's Daughter",
+        "author": "Flagg, Edmund",
+        "author_birth_year": 1815,
+        "author_death_year": 1890,
+        "language": "en",
+        "subjects": [
+            "Dantès, Edmond (Fictitious character) -- Fiction",
+            "Domestic fiction",
+            "Fathers and daughters -- Fiction",
+            "France -- Fiction"
+        ],
+        "download_count": 61942,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 40058,
+        "title": "The Life of Florence Nightingale, vol. 2 of 2",
+        "author": "Cook, Edward Tyas, Sir",
+        "author_birth_year": 1857,
+        "author_death_year": 1919,
+        "language": "en",
+        "subjects": [
+            "Nightingale, Florence, 1820-1910"
+        ],
+        "download_count": 61556,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 103,
+        "title": "Around the World in Eighty Days",
+        "author": "Verne, Jules",
+        "author_birth_year": 1828,
+        "author_death_year": 1905,
+        "language": "en",
+        "subjects": [
+            "Adventure stories",
+            "Voyages around the world -- Fiction"
+        ],
+        "download_count": 61541,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 4712,
+        "title": "The Landloper: The Romance of a Man on Foot",
+        "author": "Day, Holman",
+        "author_birth_year": 1865,
+        "author_death_year": 1935,
+        "language": "en",
+        "subjects": [
+            "Political corruption -- Fiction",
+            "Water-supply -- Fiction"
+        ],
+        "download_count": 61521,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 6635,
+        "title": "A Romance of Billy-Goat Hill",
+        "author": "Rice, Alice Caldwell Hegan",
+        "author_birth_year": 1870,
+        "author_death_year": 1942,
+        "language": "en",
+        "subjects": [
+            "Kentucky -- Fiction"
+        ],
+        "download_count": 61001,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2147,
+        "title": "The Works of Edgar Allan Poe — Volume 1",
+        "author": "Poe, Edgar Allan",
+        "author_birth_year": 1809,
+        "author_death_year": 1849,
+        "language": "en",
+        "subjects": [
+            "American fiction -- 19th century",
+            "Fantasy fiction",
+            "Horror tales, American",
+            "Poe, Edgar Allan, 1809-1849"
+        ],
+        "download_count": 60874,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 204,
+        "title": "The innocence of Father Brown",
+        "author": "Chesterton, G. K. (Gilbert Keith)",
+        "author_birth_year": 1874,
+        "author_death_year": 1936,
+        "language": "en",
+        "subjects": [
+            "Brown, Father (Fictitious character) -- Fiction",
+            "Catholics -- Fiction",
+            "Clergy -- Fiction",
+            "Detective and mystery stories, English",
+            "England -- Fiction"
+        ],
+        "download_count": 60812,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 7452,
+        "title": "Autobiography of a Yogi",
+        "author": "Yogananda, Paramahansa",
+        "author_birth_year": 1893,
+        "author_death_year": 1952,
+        "language": "en",
+        "subjects": [
+            "Yogananda, Paramahansa, 1893-1952",
+            "Yogis -- India -- Biography"
+        ],
+        "download_count": 60608,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 10002,
+        "title": "The House on the Borderland",
+        "author": "Hodgson, William Hope",
+        "author_birth_year": 1877,
+        "author_death_year": 1918,
+        "language": "en",
+        "subjects": [
+            "Science fiction"
+        ],
+        "download_count": 60535,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 8954,
+        "title": "Lady Audley's Secret",
+        "author": "Braddon, M. E. (Mary Elizabeth)",
+        "author_birth_year": 1835,
+        "author_death_year": 1915,
+        "language": "en",
+        "subjects": [
+            "Bigamy -- Fiction",
+            "Deception -- Fiction",
+            "Domestic fiction",
+            "England -- Fiction",
+            "Married women -- Fiction",
+            "Psychological fiction"
+        ],
+        "download_count": 60532,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 6400,
+        "title": "The Lives of the Twelve Caesars, Complete",
+        "author": "Suetonius",
+        "author_birth_year": null,
+        "author_death_year": null,
+        "language": "en",
+        "subjects": [
+            "Emperors -- Rome -- Biography -- Early works to 1800",
+            "Rome -- History -- Empire, 30 B.C.-284 A.D."
+        ],
+        "download_count": 60477,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 29391,
+        "title": "Blue-grass and Broadway",
+        "author": "Daviess, Maria Thompson",
+        "author_birth_year": 1872,
+        "author_death_year": 1924,
+        "language": "en",
+        "subjects": [
+            "Broadway (New York, N.Y.) -- Fiction"
+        ],
+        "download_count": 60368,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 23500,
+        "title": "The Car of Destiny",
+        "author": "Williamson, C. N. (Charles Norris)",
+        "author_birth_year": 1859,
+        "author_death_year": 1920,
+        "language": "en",
+        "subjects": [
+            "Spain -- Fiction"
+        ],
+        "download_count": 60027,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2097,
+        "title": "The Sign of the Four",
+        "author": "Doyle, Arthur Conan",
+        "author_birth_year": 1859,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 59781,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 209,
+        "title": "The Turn of the Screw",
+        "author": "James, Henry",
+        "author_birth_year": 1843,
+        "author_death_year": 1916,
+        "language": "en",
+        "subjects": [
+            "Children -- Fiction",
+            "England -- Fiction",
+            "Ghost stories",
+            "Governesses -- Fiction",
+            "Psychological fiction"
+        ],
+        "download_count": 59775,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 2527,
+        "title": "The Sorrows of Young Werther",
+        "author": "Goethe, Johann Wolfgang von",
+        "author_birth_year": 1749,
+        "author_death_year": 1832,
+        "language": "en",
+        "subjects": [
+            "Germany -- Social life and customs -- Fiction",
+            "Unrequited love -- Fiction",
+            "Young men -- Germany -- Fiction"
+        ],
+        "download_count": 59731,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 223,
+        "title": "The wisdom of Father Brown",
+        "author": "Chesterton, G. K. (Gilbert Keith)",
+        "author_birth_year": 1874,
+        "author_death_year": 1936,
+        "language": "en",
+        "subjects": [
+            "Brown, Father (Fictitious character) -- Fiction",
+            "Catholics -- Fiction",
+            "Clergy -- Fiction",
+            "Detective and mystery stories, English",
+            "England -- Fiction"
+        ],
+        "download_count": 59388,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 4200,
+        "title": "The Diary of Samuel Pepys — Complete",
+        "author": "Pepys, Samuel",
+        "author_birth_year": 1633,
+        "author_death_year": 1703,
+        "language": "en",
+        "subjects": [
+            "Cabinet officers -- Great Britain -- Diaries",
+            "Diarists -- Great Britain -- Diaries",
+            "Great Britain -- History -- Charles II, 1660-1685 -- Sources",
+            "Great Britain -- Social life and customs -- 17th century -- Sources",
+            "Pepys, Samuel, 1633-1703 -- Diaries"
+        ],
+        "download_count": 59252,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 10102,
+        "title": "The Czar's Spy: The Mystery of a Silent Love",
+        "author": "Le Queux, William",
+        "author_birth_year": 1864,
+        "author_death_year": 1927,
+        "language": "en",
+        "subjects": [
+            "Spy stories"
+        ],
+        "download_count": 59213,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 45839,
+        "title": "Dracula",
+        "author": "Stoker, Bram",
+        "author_birth_year": 1847,
+        "author_death_year": 1912,
+        "language": "en",
+        "subjects": [
+            "Dracula, Count (Fictitious character) -- Fiction",
+            "Epistolary fiction",
+            "Gothic fiction",
+            "Horror tales",
+            "Transylvania (Romania) -- Fiction",
+            "Vampires -- Fiction",
+            "Whitby (England) -- Fiction"
+        ],
+        "download_count": 59207,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 108,
+        "title": "The Return of Sherlock Holmes",
+        "author": "Doyle, Arthur Conan",
+        "author_birth_year": 1859,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories, English",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 59188,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 33118,
+        "title": "Just Around the Corner: Romance en casserole",
+        "author": "Hurst, Fannie",
+        "author_birth_year": 1889,
+        "author_death_year": 1968,
+        "language": "en",
+        "subjects": [
+            "New York (N.Y.) -- Fiction",
+            "Short stories"
+        ],
+        "download_count": 58923,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 863,
+        "title": "The Mysterious Affair at Styles",
+        "author": "Christie, Agatha",
+        "author_birth_year": 1890,
+        "author_death_year": 1976,
+        "language": "en",
+        "subjects": [
+            "Belgians -- England -- Fiction",
+            "Detective and mystery stories",
+            "Poirot, Hercule (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 58910,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 834,
+        "title": "The Memoirs of Sherlock Holmes",
+        "author": "Doyle, Arthur Conan",
+        "author_birth_year": 1859,
+        "author_death_year": 1930,
+        "language": "en",
+        "subjects": [
+            "Detective and mystery stories, English",
+            "Holmes, Sherlock (Fictitious character) -- Fiction",
+            "Private investigators -- England -- Fiction"
+        ],
+        "download_count": 58833,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    },
+    {
+        "book_id": 84,
+        "title": "Frankenstein; or, the modern prometheus",
+        "author": "Shelley, Mary Wollstonecraft",
+        "author_birth_year": 1797,
+        "author_death_year": 1851,
+        "language": "en",
+        "subjects": [
+            "Frankenstein's monster (Fictitious character) -- Fiction",
+            "Frankenstein, Victor (Fictitious character) -- Fiction",
+            "Gothic fiction",
+            "Horror tales",
+            "Monsters -- Fiction",
+            "Science fiction",
+            "Scientists -- Fiction"
+        ],
+        "download_count": 58824,
+        "my_rating": null,
+        "date_added": null,
+        "reviewer": null,
+        "recommend": null
+    }
+]
