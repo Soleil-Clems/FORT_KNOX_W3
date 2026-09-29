@@ -1,10 +1,13 @@
 services:
   db:
+    container_name: fort_knox_db
     image: postgres:16-alpine
     environment:
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-secret}
-      - POSTGRES_USER=${POSTGRES_USER:-secret}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
       - POSTGRES_DB=${POSTGRES_DB:-secret}
+    ports:
+      - "5432:5432"
     volumes:
       - pg-data:/var/lib/postgresql/data
     healthcheck:
